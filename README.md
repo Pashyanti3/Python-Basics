@@ -1,5 +1,5 @@
 # Python-Basics
-##Contebts:
+##Contents:
 1.Basic Syntax for python
 2.Data types
   i.String
